@@ -1,0 +1,39 @@
+{
+    "_id" : ObjectId("5cb725cbd9af0f2b18017ae1"),
+    "name" : {
+        "zhTW" : "買貨",
+        "en" : "Purchase"
+    },
+    "status" : "active",
+    "code" : "A",
+    "number" : NumberInt(1), 
+    "order" : NumberInt(1),
+    "createdAt" : ISODate("2019-04-17T21:10:35.240+0800"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("5cb7263ea0fbed00c08658df"),
+    "name" : {
+        "zhTW" : "大單取貨／續年費",
+        "en" : "Pick Up / Annual Renewal"
+    },
+    "status" : "active",
+    "code" : "B",
+    "number" : NumberInt(1),
+    "order" : NumberInt(2),
+    "createdAt" : ISODate("2019-04-17T21:12:30.731+0800"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("5cb726842577b118a809ebfa"),
+    "name" : {
+        "zhTW" : "一條龍",
+        "en" : "One Stop Service"
+    },
+    "status" : "active",
+    "code" : "C",
+    "number" : NumberInt(1),
+    "order" : NumberInt(3),
+    "createdAt" : ISODate("2019-04-17T21:13:40.292+0800"),
+    "__v" : NumberInt(0)
+}

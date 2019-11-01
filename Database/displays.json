@@ -1,0 +1,25 @@
+{ 
+    "_id" : ObjectId("5cb739d5309c40245421da07"), 
+    "theme" : "landscape", 
+    "bottomText" : "請各經銷商留意叫號，如編號將到請出納部等侯，如已過5個，請重新按票。謝謝。", 
+    "__v" : NumberInt(0), 
+    "name" : "大屏慕", 
+    "callingVolume" : NumberInt(100), 
+    "createdAt" : ISODate("2019-04-17T14:36:05.607+0000")
+}
+{ 
+    "_id" : ObjectId("5cb739f8309c40245421da08"), 
+    "callingVolume" : NumberInt(100), 
+    "theme" : "counter", 
+    "__v" : NumberInt(0), 
+    "name" : "櫃枱", 
+    "createdAt" : ISODate("2019-04-17T14:36:40.513+0000")
+}
+{ 
+    "_id" : ObjectId("5cb73a0d309c40245421da09"), 
+    "callingVolume" : NumberInt(100), 
+    "theme" : "kiosk", 
+    "__v" : NumberInt(0), 
+    "name" : "kiosk", 
+    "createdAt" : ISODate("2019-04-17T14:37:01.617+0000")
+}

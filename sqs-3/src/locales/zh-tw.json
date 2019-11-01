@@ -1,0 +1,47 @@
+{
+  "errors": {
+    "utils": {},
+    "config": {},
+    "adminPanel": {
+      "login": {
+        "invalid": "ID或密碼錯誤"
+      },
+      "queue": {
+        "missingCode": "請選擇第{{ index }}行隊伍",
+        "missingNameZhTw": "請輸入第{{ index }}行中文名稱",
+        "missingNameEn": "請輸入第{{ index }}行英文名稱",
+        "missingStatus": "請選擇第{{ index }}行狀態",
+        "missingOrder": "請輸入第{{ index }}行排序",
+        "duplicatedOrder": "排序重覆，請重新輸入",
+        "invalidOrder": "第{{ index }}行排序必須大於0"
+      },
+      "counter": {
+        "missingName": "請輸入第{{ index }}行名稱",
+        "missingStatus": "請選擇第{{ index }}行狀態",
+        "missingOrder": "請輸入第{{ index }}行排序",
+        "duplicatedOrder": "排序重覆，請重新輸入",
+        "invalidOrder": "第{{ index }}行排序必須大於0"
+      },
+      "display": {
+        "missingId": "請選擇屏幕"
+      },
+      "report": {
+        "invalidDate": "日期無效"
+      }
+    },
+    "keypad": {
+      "invalidQueue": "隊伍無效",
+      "invalidTicket": "單號無效",
+      "calledByOtherCounter": "這單號已被其他櫃枱呼叫，請重新叫號",
+      "noPendingTicket": "已沒有人輪候",
+      "invalidNumberOfPeople": "人數超出限制"
+    },
+    "auth": {
+      "invalid": "請重新登入戶口"
+    },
+    "others": {
+      "unknownError": "發生未知錯誤",
+      "apiNotFound": "找不到API"
+    }
+  }
+}
